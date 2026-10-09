@@ -1,0 +1,32 @@
+# 个人敏感材料 — 绝不入库
+身份证*/
+护照*/
+户口簿*/
+无犯罪记录*/
+公证*/
+银行流水*/
+个税*
+纳税记录*
+签名件/
+扫描件/
+
+# 临时文件
+*.tmp
+*.bak
+~$*
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
+
+# Python / Node
+__pycache__/
+node_modules/
+*.pyc
+.venv/
+env/
+
+# 工作目录
+.workbuddy/
